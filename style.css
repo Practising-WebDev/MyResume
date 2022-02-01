@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+        img {
+            float:right;
+            border-radius: 50%;
+        }
+
+        #headingdivision {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            
+        }
+
+        #resumeemaildivision {
+            height: fit-content;
+            text-align: right;
+            font-style: italic;
+
+        }
+
+        /* just a comment */
+
+        #nameheading {
+            font-size: 40px;
+            font-weight: bold;
+            font-family: 'Moon Dance', cursive;
+        }
+
+        .eduqua {
+            background-color: rgba(31, 21, 21, 0.219);
+            font-size: 20px;
+            margin-bottom: 3px;
+            border-bottom: 3px solid black;
+        }
+
+        #educationalqualification {
+            width: 100%;
+        }
+
+        .heading {
+            border: 1px solid black;
+        }
+
+        .body {
+            border-left: 1px solid black;
+            border-right: 1px solid black;
+        }
+
+        .bodybottom {
+            border-bottom: 2px solid black;
+        }
+
+        .bleft {
+            border-left: 2px solid black;
+        }
+
+        .bright {
+            border-right: 2px solid black;
+        }
+
+        .btop {
+            border-top: 2px solid black;
+        }
+
+        .sectionheading {
+            border-bottom: 3px solid black;
+            font-size: 20px;
+            font-weight: bold;
+            background-color: rgba(31, 21, 21, 0.219);
+            margin-top: 15px;
+        }
+
+        .locatimeflex {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .locatimeflex2 {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin-bottom: 8px;
+
+        }
+
+        .locationcontent {
+            font-weight: normal;
+            font-size: 15px;
+            text-align: right;
+
+
+            font-style: italic;
+        }
+
+        .timecontent {
+            font-weight: normal;
+            font-size: 15px;
+            text-align: right;
+            font-style: italic;
+        }
+
+        .textcontent {
+            text-align: left;
+        }
+
+        #relevantcoursesflex {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
