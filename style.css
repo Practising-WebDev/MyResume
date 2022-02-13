@@ -1,9 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
-        img {
-            float:right;
-            border-radius: 50%;
-        }
-
+body{
+    background-image: url("resume-bg5.png");
+    
+}
         #headingdivision {
             display: flex;
             flex-direction: row;
@@ -15,19 +13,19 @@
             height: fit-content;
             text-align: right;
             font-style: italic;
+            font-size: 20px;
 
         }
-
-        /* just a comment */
 
         #nameheading {
             font-size: 40px;
             font-weight: bold;
-            font-family: 'Moon Dance', cursive;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: purple;
         }
 
         .eduqua {
-            background-color: rgba(31, 21, 21, 0.219);
+            background-color: rgba(136, 25, 201, 0.219);
             font-size: 20px;
             margin-bottom: 3px;
             border-bottom: 3px solid black;
@@ -66,7 +64,7 @@
             border-bottom: 3px solid black;
             font-size: 20px;
             font-weight: bold;
-            background-color: rgba(31, 21, 21, 0.219);
+            background-color: rgba(136, 25, 201, 0.219);
             margin-top: 15px;
         }
 
@@ -102,12 +100,6 @@
             font-style: italic;
         }
 
-        .textcontent {
-            text-align: left;
-        }
+      
 
-        #relevantcoursesflex {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-        }
+       
